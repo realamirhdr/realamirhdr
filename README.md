@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salutations, I'm Amir 👋
 
-<!--
-**realamirhdr/realamirhdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a strong focus on backend systems and data-driven applications.  
+I enjoy building clean, scalable APIs and turning complex domains into reliable software.
+In short, I like building useful stuff.
 
-Here are some ideas to get you started:
+## 🧠 What I Do
+- Backend development with **C# / .NET / Java / SpringBoot**
+- Frontend development with **React & TypeScript**
+- Experienced in designing **REST APIs** and **Background Services** and **Enterprise Applications**
+- Modeling real-world systems (finance, analytics, workflows)
+- Writing maintainable, production-ready code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** C#, Java, Python, TypeScript, JavaScript, T-SQL  
+- **Backend:** .NET Web API, REST, Entity Framework, Dapper
+- **Frontend:** React, TypeScript  
+- **Database:** SQL Server, PostgreSQL, MongoDB,  
+- **Tools:** Git, Docker (basic), CI/CD fundamentals  
+
+- LinkedIn: https://linkedin.com/in/your-link  
+
