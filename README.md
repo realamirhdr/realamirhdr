@@ -1,6 +1,16 @@
- <img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAd/dark-souls-bonfire.gif" width="300" height="180" style="object-fit:cover; object-position:center;" />
+<div align="center">
+  <img
+    src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAd/dark-souls-bonfire.gif"
+    width="300"
+    height="180"
+    style="object-fit:cover; object-position:center;"
+  />
 
-# Salutations, I'm Amir 👋
+  <h1>Salutations, I'm Amir 👋</h1>
+</div>
+
+
+
 Software Engineer with a strong focus on backend systems and data-driven applications.  
 I enjoy building clean, scalable APIs and turning complex domains into reliable software.
 In short, I like building useful stuff.
