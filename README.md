@@ -6,7 +6,7 @@
     style="object-fit:cover; object-position:center;"
   />
 
-  <h1>Salutations, I'm Amir 👋</h1>
+  <h1>Salutations, I'm Amir 👋⚔️ </h1>
 </div>
 
 
