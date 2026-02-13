@@ -1,6 +1,4 @@
-# Salutations, I'm Amir 👋 <img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAd/dark-souls-bonfire.gif" width="300"
-     height="180"
-     style="object-fit:cover; object-position:center;" />
+# Salutations, I'm Amir 👋 <img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAd/dark-souls-bonfire.gif" width="300" height="180" style="object-fit:cover; object-position:center;" />
 
 
 Software Engineer with a strong focus on backend systems and data-driven applications.  
