@@ -12,11 +12,17 @@ In short, I like building useful stuff.
 - Writing maintainable, production-ready code
 
 ## 🛠 Tech Stack
-- **Languages:** C#, Java, Python, TypeScript, JavaScript, T-SQL  
-- **Backend:** .NET Web API, REST, Entity Framework, Dapper
-- **Frontend:** React, TypeScript  
-- **Database:** SQL Server, PostgreSQL, MongoDB,  
-- **Tools:** Git, Docker (basic), CI/CD fundamentals  
+- **Languages:** C#, Java, T-SQL, TypeScript, JavaScript, Python, Rust
+- **Backend:** .NET, Spring Boot, Express.js
+- **Frontend:** HTML, CSS, React, Tailwind
+- **Database:** SQL Server, PostgreSQL, MongoDB, Redis, elasticsearch, MySQL, Garnet
+- **DevOps:** Git, CI/CD, GitHub, GitHub Actions, GitLab, GitLab Pipelines, Docker, Windows Services, Azure
+- **Architectures:** Service-Oriented Architecture, Microservices, Event-Driven Architecture, CQRS, Onion, CLEAN, Monolith, Distributed Systems, Multi-layer Architecure, MVC
+- **Software Paradigms:** Domain-Driven Design, Test-Driven Development, Event-Driven Design
+- **Methodologies and Workflow tools:** Scrum, Agile, Kanban, Jira, Notion, Confluence
+- **General Skills:** Microsoft Office, Google Drive, AI tools, Vibe coding
+- **Soft Skills:** Communication, Collaboration, Pair Programming, Problem-Solving
+
 
 - LinkedIn: https://linkedin.com/in/your-link  
 
