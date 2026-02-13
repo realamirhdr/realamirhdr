@@ -18,7 +18,7 @@ In short, I like building useful stuff.
 - **Database:** SQL Server, PostgreSQL, MongoDB, Redis, elasticsearch, MySQL, Garnet
 - **DevOps:** Git, CI/CD, GitHub, GitHub Actions, GitLab, GitLab Pipelines, Docker, Windows Services, Azure
 - **Architectures:** Service-Oriented Architecture, Microservices, Event-Driven Architecture, CQRS, Onion, CLEAN,
--  Monolith, Distributed Systems, Multi-layer Architecure, MVC
+   Monolith, Distributed Systems, Multi-layer Architecure, MVC
 - **Software Paradigms:** Domain-Driven Design, Test-Driven Development, Event-Driven Design
 - **Methodologies and Workflow tools:** Scrum, Agile, Kanban, Jira, Notion, Confluence
 - **General Skills:** DSA, Microsoft Office, Google Drive, AI tools, Vibe coding
