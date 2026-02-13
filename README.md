@@ -37,6 +37,3 @@ In short, I like building useful stuff.
 - **General Skills:** DSA, Microsoft Office, Google Drive, AI tools, Vibe coding
 - **Soft Skills:** Communication, Collaboration, Pair Programming, Problem-Solving
 
-
-- LinkedIn: https://linkedin.com/in/your-link  
-
