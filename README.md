@@ -27,10 +27,12 @@ In short, I like building useful stuff.
 - **Backend:** .NET, Spring Boot, Express.js
 - **Frontend:** HTML, CSS, React, Tailwind
 - **Database:** SQL Server, PostgreSQL, MongoDB, Redis, elasticsearch, MySQL, Garnet
+- **Data Access & ORM:** Dapper, Entity Framework, Hibernate
 - **DevOps:** Git, CI/CD, GitHub, GitHub Actions, GitLab, GitLab Pipelines, Docker, Windows Services, Azure
 - **Architectures:** Service-Oriented Architecture, Microservices, Event-Driven Architecture, CQRS, Onion, CLEAN,
    Monolith, Distributed Systems, Multi-layer Architecure, MVC
 - **Software Paradigms:** Domain-Driven Design, Test-Driven Development, Event-Driven Design
+- **Messaging & Real-Time:** gRPC, RabbitMQ, SignalR
 - **Methodologies and Workflow tools:** Scrum, Agile, Kanban, Jira, Notion, Confluence
 - **General Skills:** DSA, Microsoft Office, Google Drive, AI tools, Vibe coding
 - **Soft Skills:** Communication, Collaboration, Pair Programming, Problem-Solving
