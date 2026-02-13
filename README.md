@@ -22,7 +22,7 @@ In short, I like building useful stuff.
 - Modeling real-world systems (finance, analytics, workflows)
 - Writing maintainable, production-ready code
 
-## 🛠 Tech Stack
+## 🛠 Skills
 - **Languages:** C#, Java, T-SQL, TypeScript, JavaScript, Python, Rust
 - **Backend:** .NET, Spring Boot, Express.js
 - **Frontend:** HTML, CSS, React, Tailwind
